@@ -1,0 +1,18 @@
+[
+    {
+        "firstName": "Selenium",
+        "lastName": "Testing",
+        "job": "QA"
+    },
+    {
+        "firstName": "Cypress",
+        "lastName": "Testing",
+        "job": "QA"
+    },
+    {
+        "firstName": "Playwright",
+        "lastName": "Testing",
+        "job": "QA"
+    }
+    ]
+    
